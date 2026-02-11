@@ -1,7 +1,7 @@
 package testss;
 /*
  * @author : Ajay Badrinath
- * @date   : 16-10-23
+ * 
  * */
 /*
  * Mersenne Class containing constants , generating function , seed , and twisting 
